@@ -1,8 +1,8 @@
 th, caption
 {
     font-size:20pt;
-    background-color:cyan;
-    border:3px solid darkcyan;
+    background-color:navy;
+    border:3px solid maroon;
     font-weight:bold;
 }
 table
@@ -11,7 +11,7 @@ table
 }
 td
 {
-    border:1px solid #606060;
+    border:1px solid #463060;
 }
 *[scope^="col"]
 {
@@ -23,7 +23,7 @@ td
 }
 thead th
 {
-    background-color:aquamarine
+    background-color:forestgreen
 }
 th + td
 {
