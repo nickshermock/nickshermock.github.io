@@ -29,8 +29,8 @@ header h1
 }
 header h2
 {
-	font-size:  20pt;
-	color: var(--old-western-brown);
+	font-size:  24pt;
+	color: var(--chocolate);
 	font-variant: small-caps;
 }
 main h1
@@ -58,6 +58,6 @@ main ul
 }
 #wantedlist
 {
-	font-size: 25pt;
-	float:  right;
+	font-size: 30pt;
+	float:  left;
 }
