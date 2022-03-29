@@ -13,12 +13,12 @@ body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  var(--mignightblue);
+	background-color:  var(--oldlace);
 }
 header
 {
-	background-color:  mignightblue;
-	border: 5px dashed mignightblue;
+	background-color:  oldlace;
+	border: 5px dashed oldlace;
 	margin: 12px 120px;
 }
 header h1
@@ -30,7 +30,7 @@ header h1
 header h2
 {
 	font-size:  24pt;
-	color: var(--mignightblue);
+	color: var(--oldlace);
 	font-variant: small-caps;
 }
 main h1
