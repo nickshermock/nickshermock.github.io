@@ -18,7 +18,7 @@ body
 header
 {
 	background-color:  oldlace;
-	border: 5px dashed oldlace;
+	border: 5px dashed mintcream;
 	margin: 12px 120px;
 }
 header h1
@@ -30,7 +30,7 @@ header h1
 header h2
 {
 	font-size:  24pt;
-	color: var(--oldlace);
+	color: var(--navy);
 	font-variant: small-caps;
 }
 main h1
