@@ -7,18 +7,18 @@
 
 :root
 {
-	--lightsteelblue: rgb(176,196,222);
+	--mignightblue: rgb(25,25,112);
 }
 body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  var(--darkslateblue);
+	background-color:  var(--mignightblue);
 }
 header
 {
 	background-color:  mignightblue;
-	border: 5px dashed paleturquoise;
+	border: 5px dashed mignightblue;
 	margin: 12px 120px;
 }
 header h1
@@ -30,7 +30,7 @@ header h1
 header h2
 {
 	font-size:  24pt;
-	color: var(--chocolate);
+	color: var(--mignightblue);
 	font-variant: small-caps;
 }
 main h1
