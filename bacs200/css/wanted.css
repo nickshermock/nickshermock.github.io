@@ -1,25 +1,25 @@
 /*
 *
 {
-	border: 1px solid brown;
+	border: 1px lightsteelblue;
 }
 */
 
 :root
 {
-	--old-western-brown: rgb(100,50,18);
+	--chocolate: rgb(210,105,30);
 }
 body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  var(--old-western-brown);
+	background-color:  var(--chocolate);
 }
 header
 {
-	background-color:  sandybrown;
-	border: 5px dashed brown;
-	margin: 10px 100px;
+	background-color:  mignightblue;
+	border: 5px dashed paleturquoise;
+	margin: 12px 120px;
 }
 header h1
 {
