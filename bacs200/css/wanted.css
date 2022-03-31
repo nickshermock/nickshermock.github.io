@@ -1,7 +1,7 @@
 /*
 *
 {
-	border: 1px chocolate;
+	border: 1px navy;
 }
 */
 
@@ -33,16 +33,16 @@ header h2
 main h1
 {
 	font-size:  70pt;
-	font-family: 'Brush Script MT', cursive;
+	font-family: 'Times New Roman', cursive;
 	margin: 0;
 }
 h1+h2
 {
-	margin-top: -15px;
+	margin-top: 10px;
 }
 main h2
 {
-	text-decoration: underline;
+	text-decoration: wavy underline;
 	font-weight: bold;
 	margin-bottom: 0;
 }
