@@ -14,7 +14,7 @@ body
 header
 {
 	background-color:  oldlace;
-	border: 5px dashed mintcream;
+	border: 24px dashed mintcream;
 	margin: 12px 120px;
 	font-color:	navy;
 }
@@ -33,8 +33,8 @@ header h2
 main h1
 {
 	font-size:  70pt;
-	font-family: 'Apple Chancery', cursive;
-	margin: 0;
+	font-family: serif, cursive;
+	text decoration: underline, overline;
 }
 h1+h2
 {
