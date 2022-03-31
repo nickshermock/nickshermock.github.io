@@ -27,7 +27,7 @@ header h1
 header h2
 {
 	font-size:  24pt;
-	color: var(--navy);
+	color:	navy;
 	font-variant: small-caps;
 }
 main h1
