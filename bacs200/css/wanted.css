@@ -34,7 +34,7 @@ main h1
 {
 	font-size:  70pt;
 	font-family: serif, cursive;
-	text-decoration-line: mintcream underline overline;
+	line-text-decoration: underline overline mintcream;
 }
 h1+h2
 {
@@ -55,8 +55,15 @@ main ul
 }
 #wantedlist
 {
-	font-size: 30pt;
+	font-size: 48pt;
 	float:  left;
+	text-align: left;
 	border: 12px dashed mintcream;
-	border-margin: 4px
 }
+footer
+{
+	text-align: center;
+	float: center;
+	border: inset;
+	
+	
