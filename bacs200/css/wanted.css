@@ -34,7 +34,7 @@ main h1
 {
 	font-size:  70pt;
 	font-family: serif, cursive;
-	text decoration: underline, overline;
+	text decoration: mintcream underlineoverline;
 }
 h1+h2
 {
@@ -42,7 +42,7 @@ h1+h2
 }
 main h2
 {
-	text-decoration: wavy underline;
+	text-decoration: mintcream wavy underline; 
 	font-weight: bold;
 	margin-bottom: 10px;
 }
