@@ -33,7 +33,7 @@ header h2
 main h1
 {
 	font-size:  70pt;
-	font-family: 'Times New Roman', cursive;
+	font-family: 'Apple Chancery', cursive;
 	margin: 0;
 }
 h1+h2
@@ -44,7 +44,7 @@ main h2
 {
 	text-decoration: wavy underline;
 	font-weight: bold;
-	margin-bottom: 10;
+	margin-bottom: 10px;
 }
 main ul
 {
