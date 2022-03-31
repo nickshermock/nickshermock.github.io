@@ -5,21 +5,18 @@
 }
 */
 
-:root
-{
-	--mignightblue: rgb(25,25,112);
-}
 body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  var(--oldlace);
+	background-color:  var(--navy);
 }
 header
 {
 	background-color:  oldlace;
 	border: 5px dashed mintcream;
 	margin: 12px 120px;
+	font-color:	navy;
 }
 header h1
 {
