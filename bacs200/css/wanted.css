@@ -50,11 +50,12 @@ main ul
 {
 	display:  table;
 	margin: 0 auto;
-	text-align:  left;
+	text-align:  right;
 	/*padding-left: 2px;*/
 }
 #wantedlist
 {
 	font-size: 30pt;
 	float:  left;
+	border: 24px dashed mintcream;
 }
