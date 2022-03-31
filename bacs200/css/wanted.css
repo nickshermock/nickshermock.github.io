@@ -57,5 +57,6 @@ main ul
 {
 	font-size: 30pt;
 	float:  left;
-	border: 24px dashed mintcream;
+	border: 20px dashed mintcream;
+	/*padding: 2px;*/
 }
