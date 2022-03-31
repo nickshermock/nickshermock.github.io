@@ -1,1 +1,55 @@
-
+body{
+	background-color:darkblue;
+}
+.class-for-index {
+	color: gold;
+}
+{
+    text-align: left;
+}
+header
+{
+    background-color: purple;
+    font-size: 30px;
+}
+@font-face {
+  font-family: "Engry";
+  src: url("Engry.eot");
+  src: local("Engry Web Regular"), local("Engry Web"),
+         url("EngryWeb.otf") format("opentype");
+}
+ul
+{
+    font-size: 20px;
+}
+li {
+	color: gold;
+}
+h1 
+{
+    color: gold;
+    font-family:  copperplate, fantasy;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-right: 4px;
+}
+h2 
+{
+	color: gold;
+	font-family: copperplate, fantasy;
+	font-size: 20px;
+}
+marker 
+{
+	color: gold;
+}
+h3 
+{
+	color: gold;
+	float: none;
+}
+a
+{ 
+	color: Gold;
+}
